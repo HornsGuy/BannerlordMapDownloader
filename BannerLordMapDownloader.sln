@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BannerlordMapDownloader", "BannerLordMapDownloader\BannerlordMapDownloader.csproj", "{07F679CD-89CA-4CAD-861F-862C323D71D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapDownloadAPI", "MapDownloaderAPI\MapDownloadAPI.csproj", "{C055444D-0589-42A3-BFE6-64F6927CEB80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapDownloadAPITests", "MapDownloadAPITests\MapDownloadAPITests.csproj", "{341CDDCA-629B-424C-A92A-1DDD70F669B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F679CD-89CA-4CAD-861F-862C323D71D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F679CD-89CA-4CAD-861F-862C323D71D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F679CD-89CA-4CAD-861F-862C323D71D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F679CD-89CA-4CAD-861F-862C323D71D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C055444D-0589-42A3-BFE6-64F6927CEB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C055444D-0589-42A3-BFE6-64F6927CEB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C055444D-0589-42A3-BFE6-64F6927CEB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C055444D-0589-42A3-BFE6-64F6927CEB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341CDDCA-629B-424C-A92A-1DDD70F669B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341CDDCA-629B-424C-A92A-1DDD70F669B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341CDDCA-629B-424C-A92A-1DDD70F669B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341CDDCA-629B-424C-A92A-1DDD70F669B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF917D0-4BF8-4BC3-992A-0BDBA33886FC}
+	EndGlobalSection
+EndGlobal

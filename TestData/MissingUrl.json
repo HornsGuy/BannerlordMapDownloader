@@ -1,0 +1,9 @@
+[
+  {
+    "mapFolderName": "mp_compact",
+    "gameTypes": [
+      "Battle",
+	  "TeamDeathmatch"
+    ]
+  }
+]
